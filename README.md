@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zach</h1>
+<h1 align="center">Hi, I'm Zach</h1>
 <h3 align="center">Programmer, Illustrator, and Designer from Tennessee</h3>
 
 - 🔭 I’m currently working on [Gourdgeous](https://github.com/Semiosphere/Gourdgeous-Midterm-Capstone.git)
